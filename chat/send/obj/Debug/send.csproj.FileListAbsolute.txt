@@ -1,0 +1,9 @@
+E:\demopro\chat_send\chat\send\obj\Debug\send.exe
+E:\demopro\chat_send\chat\send\obj\Debug\send.pdb
+E:\demopro\chat_send\chat\send\bin\Debug\send.exe
+E:\demopro\chat_send\chat\send\bin\Debug\send.pdb
+E:\demopro\chat_send\chat\send\obj\Debug\ResolveAssemblyReference.cache
+E:\demopro\chat_send\chat\send\obj\Debug\send.Form1.resources
+E:\demopro\chat_send\chat\send\obj\Debug\send.Properties.Resources.resources
+E:\demopro\chat_send\chat\send\obj\Debug\ResGen.read.1.tlog
+E:\demopro\chat_send\chat\send\obj\Debug\ResGen.write.1.tlog
